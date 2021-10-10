@@ -7,8 +7,9 @@
  - осваивать новое :rocket:
  - стать лучше в том, что уже умею :tractor:
 
-Стек
+Стек :wrench:
 
+![git](./git.png)
 
 <!--
 **hadzime13/hadzime13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
