@@ -17,5 +17,5 @@
 ![](./nodejs.png)
 ![git](./git.png)
 
-email: aa.var1amov@yandex.ru
-telegram - @AAVarlamov
+email: aa.var1amov@yandex.ru  
+telegram: @AAVarlamov
